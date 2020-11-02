@@ -1,0 +1,60 @@
+
+body{
+  margin: 0px;
+  font-family: "Lucida Console", Times, serif;
+}
+
+#wrapper{
+
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+header{
+  height: 200px;
+  width: 100%;
+  background: #F76723;
+
+}
+
+nav{
+  height: 50px;
+  width: 100%;
+  background: #D4241E;
+
+
+
+}
+
+main{
+  height: 550px;
+  width: 75%;
+  background: #EB2DD1;
+
+}
+
+aside{
+  height: 550px;
+  width: 25%;
+  background: #7F1ED4;
+
+}
+
+footer{
+  height: 100px;
+  width: 100%;
+  background: #1B1BF5;
+
+}
+
+#container{
+  display: flex;
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+  font-size: 20px;
+}
