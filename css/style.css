@@ -15,14 +15,14 @@ body{
 header{
   height: 200px;
   width: 100%;
-  background: #F76723;
+  background: white;
 
 }
 
 nav{
   height: 50px;
   width: 100%;
-  background: #D4241E;
+  background: grey;
 
 
 
@@ -31,21 +31,21 @@ nav{
 main{
   height: 550px;
   width: 75%;
-  background: #EB2DD1;
+  background: white;
 
 }
 
 aside{
   height: 550px;
   width: 25%;
-  background: #7F1ED4;
+  background: grey;
 
 }
 
 footer{
   height: 100px;
   width: 100%;
-  background: #1B1BF5;
+  background: ;
 
 }
 
