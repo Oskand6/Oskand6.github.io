@@ -2,7 +2,7 @@
 body{
 
   font-family: "Lucida Console", Times, serif;
-    margin: 20px;
+    margin: 0px;
 }
 
 #wrapper{
@@ -17,13 +17,15 @@ header{
   height: 200px;
   width: 100%;
   background: white;
+  margin: 15px;
 
 }
 
 nav{
   height: 50px;
   width: 100%;
-  background: grey;
+  background: white;
+  margin: 15px;
 
 
 
@@ -33,6 +35,7 @@ main{
   height: 550px;
   width: 75%;
   background: white;
+  margin: 15px;
 
 
 }
@@ -40,14 +43,16 @@ main{
 aside{
   height: 550px;
   width: 25%;
-  background: grey;
+  background: white;
+  margin: 15px;
 
 }
 
 footer{
   height: 100px;
   width: 100%;
-  background: ;
+  background: white;
+  margin: 15px;
 
 }
 
