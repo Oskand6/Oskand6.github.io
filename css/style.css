@@ -1,8 +1,8 @@
 
 body{
-
+  margin: 0px;
   font-family: "Lucida Console", Times, serif;
-    margin: 0px;
+
 }
 
 #wrapper{
@@ -22,10 +22,9 @@ header{
 }
 
 nav{
-  height: 50px;
+  height: 30px;
   width: 100%;
   background: black;
-  margin: 15px;
 
 
 
@@ -44,7 +43,6 @@ aside{
   height: 550px;
   width: 25%;
   background: white;
-  margin: 15px;
 
 }
 
