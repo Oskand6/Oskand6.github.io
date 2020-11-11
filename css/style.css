@@ -16,7 +16,7 @@ body{
 header{
   height: 200px;
   width: 100%;
-  background: purple;
+  background: blue;
   margin: 15px;
 
 }
@@ -25,7 +25,7 @@ nav{
   height: 30px;
   width: 100%;
   background: black;
-
+  margin: 15px;
 
 
 }
