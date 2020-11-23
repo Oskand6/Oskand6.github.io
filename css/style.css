@@ -66,6 +66,7 @@ header{
   background: blue;
   margin: 0px;
   font-size: 40px;
+	font-align: center;
 
 }
 
@@ -74,6 +75,7 @@ nav{
   width: 100%;
   background: black;
   margin: 0px;
+	font-align: center;
 
 
 }
@@ -99,6 +101,7 @@ footer{
   width: 100%;
   background: black;
   margin: 0px;
+	font-align: center;
 
 }
 
